@@ -2,13 +2,13 @@
 
 🚀 **Senior Software Engineer | Full Stack Developer | Real-Time Systems Enthusiast**
 
-I'm a **Full Stack Engineer** with **11 years of experience** developing high-performance applications across industries like **telecommunications, healthcare, travel, e-commerce, aerospace**, and **real-time data processing**. I’m passionate about building scalable, efficient solutions and leading teams to deliver innovative products.
+I'm a **Full Stack Engineer** with **10+ years of experience** developing high-performance applications across industries like **travel, e-commerce, aerospace, telecommunications, healthcare, **, and **real-time data processing**. I’m passionate about building scalable, efficient solutions and leading teams to deliver innovative products.
 
 ---
 
 ## 🛠️ **Tech Stack & Expertise**
 
-- **Languages:** C#, Java, Python, JavaScript, TypeScript, PHP, SQL, C/C++, HTML, CSS  
+- **Languages:** C#, JavaScript, TypeScript, Java, Python, PHP, SQL, C/C++, HTML, CSS  
 - **Backend:** Node.js, Nest.js, ASP.NET, Spring Boot, Django, FastAPI, Microservices, REST APIs, GraphQL, gRPC, WebSocket  
 - **Frontend:** React.js, Next.js, Vue.js, Angular, Electron, Tailwind CSS, Material UI, SASS  
 - **Mobile:** React Native, Android (Kotlin), Swift, Flutter, Unity3D  
