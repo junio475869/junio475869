@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer | Full Stack Developer | Real-Time Systems Enthusiast**
 
-I'm a **Full Stack Engineer** with **10+ years of experience** developing high-performance applications across industries like **travel, e-commerce, aerospace, telecommunications, healthcare, **, and **real-time data processing**. I’m passionate about building scalable, efficient solutions and leading teams to deliver innovative products.
+I'm a **Full Stack Engineer** with **10+ years of experience** developing high-performance applications across industries like **travel, e-commerce, aerospace, telecommunications, healthcare**, and **real-time data processing**. I’m passionate about building scalable, efficient solutions and leading teams to deliver innovative products.
 
 ---
 
